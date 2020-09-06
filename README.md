@@ -29,5 +29,13 @@ Step 1. Add the JitPack repository to your build file
   
   
   
+  Step 3. How to use
+  
+  
+   
+              new ProgressDialogBuilder(this)
+                       .setProgressStyle(ProgressStyle.STYLE_3)
+                       .show();
+  
   
   [![](https://jitpack.io/v/developerakshaym021/Android-ProgressBarMaster.svg)](https://jitpack.io/#developerakshaym021/Android-ProgressBarMaster)
