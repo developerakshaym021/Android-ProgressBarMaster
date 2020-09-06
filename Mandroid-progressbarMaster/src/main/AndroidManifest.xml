@@ -1,0 +1,14 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="www.developerakshaym021.mandroid_progressbarmaster">
+
+
+<!-- Develop by developerakshaym021.github {Akshay Mishra}        -->
+
+
+    <application>
+        <activity android:name=".ProgressDialogBuilder"
+            tools:ignore="Instantiatable" />
+    </application>
+
+</manifest>

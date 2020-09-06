@@ -1,0 +1,3 @@
+include ':Mandroid-progressbarMaster'
+include ':app'
+rootProject.name = "Android-ProgressBarMaster"
